@@ -1,0 +1,12 @@
+.idea
+.idea/
+target
+target/
+*.iml
+logs
+logs/
+
+# 忽略苹果自动创建的文件
+.DS_Store
+logs/*.log
+
